@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. chTree", "7. chTree\7. c
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. sunglasses", "8. sunglasses\8. sunglasses.csproj", "{C549B49B-B755-4522-AA9E-25DD1D6A6E9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. house", "9. house\9. house.csproj", "{4C85906B-D844-40D6-BA56-E1AC39E726FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Diamond", "10. Diamond\10. Diamond.csproj", "{196F307D-1264-4314-AE30-DBD163CAC2EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{C549B49B-B755-4522-AA9E-25DD1D6A6E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C549B49B-B755-4522-AA9E-25DD1D6A6E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C549B49B-B755-4522-AA9E-25DD1D6A6E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C85906B-D844-40D6-BA56-E1AC39E726FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C85906B-D844-40D6-BA56-E1AC39E726FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C85906B-D844-40D6-BA56-E1AC39E726FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C85906B-D844-40D6-BA56-E1AC39E726FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196F307D-1264-4314-AE30-DBD163CAC2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196F307D-1264-4314-AE30-DBD163CAC2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196F307D-1264-4314-AE30-DBD163CAC2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196F307D-1264-4314-AE30-DBD163CAC2EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
